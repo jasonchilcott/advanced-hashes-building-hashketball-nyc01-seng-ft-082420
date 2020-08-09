@@ -9,7 +9,6 @@ def game_hash
       players: [
 
       ]
-
     },
 
     away: {
