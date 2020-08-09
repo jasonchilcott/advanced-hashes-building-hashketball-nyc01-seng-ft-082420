@@ -2,6 +2,15 @@
 require 'pry'
 
 def game_hash
-  hashketball = {}
+  hashketball = {
+    home: {
+
+    }
+
+    away: {
+      
+    }
+
+  }
   hashketball
 end
